@@ -1,5 +1,5 @@
 %define name unixODBC
-%define ver 2.3.3
+%define ver 2.3.4
 %define prefix /usr
 %define sysconfdir /etc
 
